@@ -1,0 +1,9 @@
+{
+  "topic": "Мужская одежда и обувь для дачи осенью и зимой",
+  "queries": ["сапоги эва Nordman Torvi сравнение недостатки", "одежда для работы на даче зимой"],
+  "results_per_query": 3,
+  "filters": {"min_duration": 180, "max_duration": 1600},
+  "languages": ["ru"],
+  "out_dir": "data/youtube",
+  "extract_prompt": ""
+}
